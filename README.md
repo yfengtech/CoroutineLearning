@@ -133,4 +133,4 @@ private fun mergeResponse() {
 
 ### 中止任务
 
-参考源码MyApplication.kt
+详情 可参考源码[MyApplication.kt](https://github.com/yfengtech/CoroutineLearning/blob/master/app/src/main/java/cn/yfengtech/learncoroutine/MyApplication.kt)
